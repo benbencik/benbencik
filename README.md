@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 | **Mathematics** | Graph theory • Cryptography • Probability theory • Complexity theory • Combinatorics |
 | **Prototyping** | **Python** for scripting and data analysis |
 | **Environment** | Proficient in **Linux** • Terminal-native • NixOS |
-| **Web3** | Smart contracts (Solidity) • Blockchain infrastructure • **web3.js, foundry** • zkSNARKs |
+| **Web3** | Smart contracts **Solidity** • Blockchain infrastructure • web3.js, foundry • zkSNARKs |
 | **Web2** | Touched some web stuff at hackathons, but not a pro |
 
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - **[simple_ec_arithmetic](https://github.com/benbencik/simple_ec_arithemtic)** - Rust PoC for elliptic curve arithmetic implementations
 - **[SWE](https://github.com/benbencik/SWE)** - Performance optimization fork of Shallow Water Equations solver (TUM student project)
 - **[sfg_gnn](https://github.com/benbencik/sfg_gnn)** - Graph Neural Networks for computing state energy of magnetic models (Student Faculty Grant at Charles University)
-- **[Joint Analysis](https://github.com/benbencik/eccentric_joint_analysis)** & **[Lug Analysis](https://github.com/benbencik/lug_analysis)** - Stress analysis computations for Aeromobil airframe testing
+- **[Joint Analysis](https://github.com/benbencik/eccentric_joint_analysis)** & **[Lug Analysis](https://github.com/benbencik/lug_analysis)** - Enginnering stress analysis computations for Aeromobil airframe testing
 
 recent hackathons:
 - 🇩🇪 **[verifiable-benchmarks](https://github.com/benbencik/verifiable-benchmarks)** EigenLayer Hackerhouse Berlin 2025 - Verifiable inference for ML models using the [TOPLOC](https://arxiv.org/pdf/2501.16007) scheme
